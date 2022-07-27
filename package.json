@@ -29,6 +29,6 @@
     "@fontsource/fira-mono": "^4.5.0",
     "@lukeed/uuid": "^2.0.0",
     "cookie": "^0.4.1",
-    "gantt-schedule-timeline-calendar": "^3.16.1"
+    "gantt-schedule-timeline-calendar": "^3.33.6"
   }
 }
